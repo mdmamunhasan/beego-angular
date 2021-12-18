@@ -1,0 +1,3 @@
+appname = go-typescript
+httpport = 8080
+runmode = dev
